@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Rimouski';
+    src: url('rimouski_sb-webfont.woff2') format('woff2'),
+         url('rimouski_sb-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
